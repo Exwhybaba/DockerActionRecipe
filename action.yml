@@ -1,5 +1,9 @@
 name: 'Exwhy Docker Action Recipe'
 description: 'Greet someone'
+branding:
+  icon: bell
+  color: purple
+author: Oyelayo Seye
 inputs:
   who-to-greet:
     description: 'Who to greet'
