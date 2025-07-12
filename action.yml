@@ -1,4 +1,4 @@
-name: 'Docker Action Recipe'
+name: 'Exwhy Docker Action Recipe'
 description: 'Greet someone'
 inputs:
   who-to-greet:
